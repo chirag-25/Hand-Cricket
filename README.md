@@ -21,4 +21,4 @@ General Rules
 
 [Presentation Video](https://drive.google.com/file/d/1ougXlTb0xWF_I40YZZGLUjHWnkaDfs6D/view?usp=sharing)
 
-HAPPY PLAYING!!
+FUN AND HAPPY PLAYING!!
