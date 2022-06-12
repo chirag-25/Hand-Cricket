@@ -1,6 +1,5 @@
 # Hand-Cricket
 Hello and welcome to my project for the ES102 Course. As a project,I have prepared Hand gesture cricket. You will be playing against the computer here. 
-
 General Rules
 There are 5 player in your and computer team
 Everytime you and computer needs to choose an integer from 0 to 6
