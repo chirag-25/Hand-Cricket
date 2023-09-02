@@ -1,24 +1,25 @@
-# Hand-Cricket
-Hello and welcome to my project for the ES102 Course. As a project,I have prepared Hand gesture cricket. You will be playing against the computer here. 
+# Hand Gesture Cricket
 
-General Rules
+Welcome to my ES102 Course project - Hand Gesture Cricket! In this project, you'll take on the computer in an engaging game of hand gesture cricket.
 
-1.  There are 5 player in your and computer team.
+## General Rules
 
-2.  Everytime you and computer needs to choose an integer from 0 to 6
+1. Teams: Each team consists of 5 players, including yourself and the computer.
 
-3.  If the choices matches the batting player will given out, else both the choices will be counted as the run of batsman 
+2. Batting Choices: Both you and the computer will select an integer between 0 and 6 before each play.
 
-4.  In last who win the game is held the winner  
+3. Scoring: If your choice matches the computer's choice, the batsman is given out. Otherwise, both choices count as runs for the batsman.
 
-5.  You can see the scoreboard at any point by entering the same
+4. Victory: The player who wins the game is declared the overall winner.
 
-6.  While bowling you can enter wide also
+5. Scoreboard: You can check the scoreboard at any time by entering the same command.
 
-7.  If user gives something else than it will print a message of wrong input instead of stoping the game.
+6. Bowling: During your turn to bowl, you can also input 'wide' to register a wide ball.
 
-8.  At the end of the game all the stats are displayed like the internationl matches.
+7. Input Validation: If you enter an invalid input, the game will politely notify you of the incorrect input without disrupting the game.
 
-[Presentation Video](https://drive.google.com/file/d/1ougXlTb0xWF_I40YZZGLUjHWnkaDfs6D/view?usp=sharing)
+8. Statistics: At the conclusion of the game, comprehensive statistics akin to international cricket matches will be displayed.
 
-FUN AND HAPPY PLAYING!!
+Get ready for a fun and immersive Hand Gesture Cricket experience!
+
+**Enjoy the game and have a great time playing!**
